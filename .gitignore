@@ -1,0 +1,24 @@
+# Keil C51 build outputs
+Objects/
+Listings/
+*.obj
+*.lst
+*.m51
+*.lnp
+*.build_log.htm
+
+# Keil user/session files
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.log
+~$*
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
